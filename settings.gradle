@@ -1,0 +1,2 @@
+rootProject.name='Find Plasma'
+include ':app'

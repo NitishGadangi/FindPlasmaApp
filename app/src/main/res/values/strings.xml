@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Find Plasma</string>
+    <string name="who_can_donate"> If you have tested positive for COVID-19 or its antibodies, or had symptoms of the virus, you may be able to donate plasma to help treat coronavirus patients.
+        Not everyone will be able to donate.\n
+        The following criteria should be met for potential donors:\n
+        - Age: > 18 Years\n
+        - Male or nulliparous female donor of weight > 55 Kg\n
+        - Prior diagnosis of Covid-19 documented by a laboratory test(RT-PCR) with symptomatic disease with at least fever and cough.\n
+        - Complete resolution of Symptoms at least 28 days prior to donation; or Complete resolution of symptoms at least 14 days prior to donation and two negative real time PCR test for COVID-19 from nasopharyngeal swab, collected 24 hour apart.
+    </string>
+</resources>

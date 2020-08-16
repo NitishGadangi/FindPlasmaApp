@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/A400red</color>
+    <color name="colorPrimaryDark">@color/A400red</color>
+    <color name="colorAccent">#444444</color>
+
+    <color name="blckSpl">#444444</color>
+    <color name="blckLite">#999999</color>
+
+    <color name="colorGreenActive">@color/A400red</color>
+    <color name="colorBlueFinished">#489CC1</color>
+    <color name="colorPinkPending">#FF7272</color>
+    <color name="colorVioletTotl">#61385F</color>
+    <color name="colorDark">#000000</color>
+    <color name="colorGrey">#707070</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="black_semi_transparent">#B2000000</color>
+
+</resources>
