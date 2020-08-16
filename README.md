@@ -27,10 +27,10 @@ This way by establishing a common platform to find a Plasma Donor. We sincerely 
 **Every Donor is a Life Savior. So Donate Blood, Save Lives!**
 
 ## Screenshots
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/NitishGadangi/FindPlasmaApp/blob/master/screenshots/ss1.jpg?raw=true)
+![](https://github.com/NitishGadangi/FindPlasmaApp/blob/master/screenshots/ss2.jpg?raw=true)
+![](https://github.com/NitishGadangi/FindPlasmaApp/blob/master/screenshots/ss3.jpg?raw=true)
+![](https://github.com/NitishGadangi/FindPlasmaApp/blob/master/screenshots/ss4.jpg?raw=true)
 
 ## Want to try the app?
 #### [Please Watch the Demo Video on Youtube]()
